@@ -1,0 +1,26 @@
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.exe.config
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.exe
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.pdb
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Memory.dll
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Memory.xml
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.AssemblyReference.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Form1.resources
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Properties.Resources.resources
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.GenerateResource.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CoreCompileInputs.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CopyComplete
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.exe
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.pdb
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Robots ZTrainer.exe.config
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Robots ZTrainer.exe
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Robots ZTrainer.pdb
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Memory.dll
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Memory.xml
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.AssemblyReference.cache
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Form1.resources
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Robots_trainer.Properties.Resources.resources
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.GenerateResource.cache
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CoreCompileInputs.cache
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CopyComplete
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Robots ZTrainer.exe
+E:\Src\Robots PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Robots ZTrainer.pdb
